@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://fullstack-to-do-list-6zhb.onrender.com";
 
 // elements
 const inputText = document.querySelector(".inputText");
